@@ -1,0 +1,8 @@
+* Para fazer
+[ x ] - bot telegram
+[ x ] - recolhecimento do boleto
+[   ] - integração do boleto com o bot
+
+* Para corrigir
+
+[ ] - erro ao mandar uma mensagem de texto para o bot
